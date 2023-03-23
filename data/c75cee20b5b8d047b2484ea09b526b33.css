@@ -1,0 +1,19 @@
+
+
+@font-face {
+    font-family: 'igbr-Milo Slab ADAC Mob-b1c7bb4';
+    
+    font-weight: bold;
+    
+    
+    font-style: italic;
+    
+    src: 
+        url('e4901da41b27b46073a4fa0aa303dfb6.woff2') format('woff2'),
+        
+        url('6c616233419acd588ef4fd4380ee3aa2.woff') format('woff'),
+        
+        url('f2594f462f43b827f6f86d5dca799107.ttf') format('truetype');
+        
+}
+
